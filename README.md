@@ -1,5 +1,5 @@
 # SV-Addition
-an implementation and demonstration of sv effect merging
+an implementation and bad demonstration of sv effect merging
 
 implementation intended to be used in other plugins
 
